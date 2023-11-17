@@ -1,0 +1,3 @@
+My first mod, centered around everyone's favorite mechanic in TF2!
+
+v0.1: Added crit color, sound, and text
